@@ -32,6 +32,6 @@ dependencies {
     })
     api project(':wifiutils')
     implementation "com.android.support:appcompat-v7:$rootProject.ext.supportLibrariesVersion"
-    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.2'
     testImplementation 'junit:junit:4.12'
 }
